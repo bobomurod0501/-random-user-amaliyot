@@ -41,4 +41,4 @@ const reLoad = () => {
         console.log(err)
     })
 }
-document.addEventListener('DOMContentLoaded', reLoad)
+   document.addEventListener('DOMContentLoaded', reLoad)
